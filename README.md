@@ -64,6 +64,10 @@ A professional and responsive doctor appointment system website built with Next.
 - `/register`: User registration page
 - `/nearby`: Find nearby doctors based on geolocation
 
+## Screenshots
+
+(Screenshots will be added here)
+
 ## Future Enhancements
 
 - User authentication and login
